@@ -1,3 +1,5 @@
+export BROWSER=google-chrome-stable
+
 function fish_prompt -d "Write out the prompt"
     # This shows up as USER@HOST /home/user/ >, with the directory colored
     # $USER and $hostname are set by fish, so you can just use them
