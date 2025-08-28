@@ -17,7 +17,7 @@ if status is-interactive
     alias mpvServer='node ~/Downloads/Tools/mpvServer'
     #. ~/.config/bashScripts/aliases.sh
     z --clean
-
+    clear
 end
 
 starship init fish | source
